@@ -1,0 +1,7 @@
+mkdir examenm5uf
+cd examenm5uf
+git init
+nano LLEGEIX.ME
+nano COPYRIGHT
+mkdir DOCUMENTS
+nano EXAMENv1.TXT
