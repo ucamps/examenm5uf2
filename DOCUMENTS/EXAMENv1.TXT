@@ -5,3 +5,9 @@ nano LLEGEIX.ME
 nano COPYRIGHT
 mkdir DOCUMENTS
 nano EXAMENv1.TXT
+git remote add origin https://github.com/ucamps/examenm5uf2.git
+git commit -m COPYRIGHT /DOCUMENTS LLEGEIX.ME
+git status 
+git add .
+git status
+git push https://github.com/ucamps/examenm5uf2.git master

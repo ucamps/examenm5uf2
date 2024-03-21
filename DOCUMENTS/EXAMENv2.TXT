@@ -1,0 +1,7 @@
+nano LLICENCIA
+cd /DOCUMENTS
+nano EXAMENv2.TXT
+cd ..
+git add .
+git commit -m LLICENCIA /DOCUMENTS
+git push https://github.com/ucamps/examenm5uf2.git master
