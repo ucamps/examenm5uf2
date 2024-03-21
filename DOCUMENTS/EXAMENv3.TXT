@@ -1,0 +1,5 @@
+nano EXAMENv3.TXT
+cd ..
+git add .
+git commit -m /furni-1.0.0 /DOCUMENTS
+git push https://github.com/ucamps/examenm5uf2.git master 
