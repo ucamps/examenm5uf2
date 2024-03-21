@@ -6,7 +6,8 @@ git branch -d elmeudesenvolupament
 git push origin --delete elmeudesenvolupament
 nano EXAMENv8.TXT
 git add .
-git commit -m /furni-1.0.0 /DOCUMENTS
+git commit -m /furni-1.0.0 
+git commit -m /DOCUMENTS
 git push https://github.com/ucamps/examenm5uf2.git master 
 
 
