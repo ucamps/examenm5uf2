@@ -1,0 +1,7 @@
+git branch elmeudesenvolupament
+git checkout elmeudesenvolupament
+nano EXAMENv6.TXT
+git add .
+git commit -m /DOCUMENTS
+git commit -m /furni-1.0.0
+git push https://github.com/ucamps/examenm5uf2.git elmeudesenvolupament
